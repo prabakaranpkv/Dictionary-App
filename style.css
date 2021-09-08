@@ -1,0 +1,32 @@
+.header {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+  margin-top: 30px;
+  font-size: 4rem;
+  color: blueviolet;
+}
+.input {
+  border-color: blueviolet;
+  background: transparent;
+}
+.content {
+  color: rgb(92, 5, 17);
+  font-style: italic;
+}
+u {
+  color: darkblue;
+  font-style: oblique;
+  font-weight: bold;
+}
+.sound {
+  margin-top: 10px;
+  height: 30px;
+}
+body {
+  background-image: url("https://www.teahub.io/photos/full/190-1905135_background-images-of-books.png");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-position: top;
+}
